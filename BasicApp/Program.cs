@@ -40,6 +40,7 @@ namespace BasicApp
             Console.WriteLine("Gender: " + Gender);
             Console.WriteLine("Contact: " + Contact);
             Console.WriteLine("Email: " + Email);
+            Console.WriteLine("Thank you");
 
         }
     }
